@@ -9,7 +9,9 @@ I have led multiple projects from concept to release, collaborating closely with
 
 
 ## 🎯 Goals
-I aim to continuously enhance my skills and explore new technologies while delivering projects that align with business objectives.
+I aim to continuously enhance my skills and explore new technologies while delivering projects that align with business objectives.  
+I'm also interested in AI and have started an [AI Wiki on GitHub](https://github.com/IliaKobalia/AI-Wiki/wiki), where I share insights and resources as I delve deeper into the field.
+
 
 
 ## 💼 Skills
@@ -21,6 +23,8 @@ I aim to continuously enhance my skills and explore new technologies while deliv
 - **User Interface:** Ant Design, Bootstrap, Material UI, CSS, Sass, Less, Tailwind CSS
 - **Testing Libraries:** Jest, React Testing Library
 - **Cloud Solutions:** AWS, Google Cloud, Azure
+- **AI:** OpenAI (conversational AI, virtual assistants, real-time audio processing, fine-tuning), Azure Computer Vision (image recognition and analysis)
+
 
 
 ## 📫 Contact
