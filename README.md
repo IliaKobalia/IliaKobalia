@@ -29,6 +29,6 @@ I'm also interested in AI and have started an [AI Wiki on GitHub](https://github
 
 ## 📫 Contact
 Feel free to reach out if you'd like to collaborate or learn more about my work!
-- [LinkedIn](www.linkedin.com/in/illia-kobaliia-187380228)
+- [LinkedIn](https://www.linkedin.com/in/illia-kobaliia-187380228/)
 - [Email](mailto:ilia.kobaliia@gmail.com)
 - [Upwork](https://www.upwork.com/freelancers/~016c86728a353a5292)
