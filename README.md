@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I am Ilia 👋</h1>
 
-<h4 align="center">Lead full-stack developer with around 5 years of experience in software development.</h4>
+<h4 align="center">Lead full-stack developer with around 7 years of experience in software development.</h4>
 
 ---
 
